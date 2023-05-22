@@ -1,4 +1,4 @@
-# Modern Flower HTML-CSS RESPONSIVE Project
+# Animation with CSS
 
 ## What i practice
 
